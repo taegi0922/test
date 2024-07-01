@@ -4,7 +4,7 @@
 <!-- 상대 경로를 유일하게 쓰는 곳 -->    
 <%@include file="../includes/header.jsp" %>
 
-<h1>윤민 형님 바보</h1>
+<h1>윤민 형님</h1>
 <div id="page-wrapper">
     <div class="row">
         <div class="col-lg-12">
